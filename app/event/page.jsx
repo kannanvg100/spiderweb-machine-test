@@ -139,7 +139,7 @@ export default function Page() {
 												</table>
 												<div className="flex justify-center gap-5 items-center px-3 py-2">
 													<Image
-														src="/Arrow-left-02.svg"
+														src="/arrow-left-02.svg"
 														width={24}
 														height={24}
 														alt="go left"
@@ -147,7 +147,7 @@ export default function Page() {
 													<Image src="/Ellipse 4.svg" width={10} height={10} alt="e4" />
 													<Image src="/Ellipse 3.svg" width={16} height={16} alt="e3" />
 													<Image
-														src="/Arrow-right-02.svg"
+														src="/arrow-right-02.svg"
 														width={24}
 														height={24}
 														alt="go right"
