@@ -5,7 +5,7 @@ import Sidebar from '@/components/Sidebar'
 
 export default function Page() {
 	return (
-		<div className="flex flex-col h-screen">
+		<div className="flex flex-col h-screen text-white">
 			<div className="min-h-[120px] flex justify-center">
 				<Header />
 			</div>

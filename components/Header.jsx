@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function Header() {
 	return (
-		<div className="self-center flex justify-center items-center gap-6">
+		<div className="self-center flex justify-center items-center gap-6 text-white">
 			<Image src="/Info-Square.svg" width={32} height={32} className="w-[32px] h-[32px]" alt="info" />
 			<div className="relative">
 				<Image src="/notification.svg" width={32} height={32} alt="notifications" />

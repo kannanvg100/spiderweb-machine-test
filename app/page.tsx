@@ -9,7 +9,7 @@ export default function Page() {
 	const router = useRouter()
 	const handleClick = () => router.push('/event')
 	return (
-		<div className="flex flex-col h-screen">
+		<div className="flex flex-col h-screen text-white">
 			<div className="min-h-[120px] flex justify-center">
 				<Header />
 			</div>
