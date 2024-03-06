@@ -109,12 +109,12 @@ export default function Page() {
 						</div>
 					</div>
 					<div className="flex justify-center items-center gap-5 p-3 bg-black rounded-br-2xl rounded-bl-2xl">
-						<Image src="/Arrow-left-02.svg" width={24} height={24} alt="go left" />
+						<Image src="/arrow-left-02.svg" width={24} height={24} alt="go left" />
 						<span>1</span>
 						<span>2</span>
 						<span>3</span>
 						<span className="text-[#D175B6]">4</span>
-						<Image src="/Arrow-right-02.svg" width={24} height={24} alt="go right" />
+						<Image src="/arrow-right-02.svg" width={24} height={24} alt="go right" />
 					</div>
 				</div>
 			</div>
