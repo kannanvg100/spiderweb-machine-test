@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function Sidebar() {
 	return (
-		<div className="h-full w-[300px] p-5 rounded-2xl border-2 border-[#D175B6] flex flex-col justify-between bg-black bg-opacity-50">
+		<div className="h-full w-[300px] min-w-[300px] p-5 rounded-2xl border-2 border-[#D175B6] flex flex-col justify-between bg-black bg-opacity-50">
 			<div className="flex-grow relative">
 				<div className="absolute inset-0 overflow-y-auto">
 					<div className="flex justify-between items-center px-5 py-4 rounded-lg border-2 border-[#D175B6]">

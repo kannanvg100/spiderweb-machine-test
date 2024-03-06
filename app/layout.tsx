@@ -17,6 +17,8 @@ export default function RootLayout({
 	return (
 		<html lang="en">
 			<body className={kanit.className}>{children}</body>
+            <div className="moving1"></div>
+			<div className="moving2"></div>
 		</html>
 	)
 }

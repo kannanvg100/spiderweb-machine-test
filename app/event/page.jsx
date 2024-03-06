@@ -17,7 +17,7 @@ export default function Page() {
 							Event Name <span className="text-2xl font-light">(Venue Details)</span>
 						</p>
 					</div>
-					<div className="flex-grow w-full h-full relative">
+					<div className="w-full h-full relative">
 						<div className="absolute inset-0 overflow-auto">
 							<div className="flex flex-col gap-5">
 								<div className="inline-flex border-2 border-[#D175B6] rounded-lg text-base self-start">
@@ -27,7 +27,7 @@ export default function Page() {
 									<p className="p-5 text-[#D175B6]">Generate SOW</p>
 								</div>
 
-								<div className="grid grid-cols-2 gap-5">
+								<div className="grid grid-cols-1 :grid-cols-2 gap-5">
 									<div className="px-1">
 										<label for="coordinators" className="text-xl">
 											Assign Coordinator
