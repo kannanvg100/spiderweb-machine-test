@@ -21,10 +21,10 @@ export default function Page() {
 						<div className="absolute inset-0 overflow-auto">
 							<div className="flex flex-col gap-5">
 								<div className="inline-flex border-2 border-[#D175B6] rounded-lg text-base self-start">
-									<p className="p-5">Event Details</p>
+									<p className="p-5 text-[#D175B6]">Event Details</p>
 									<p className="p-5 bg-[#D175B6]">Assign Coordinator/Coordinator</p>
-									<p className="p-5">Session Management</p>
-									<p className="p-5">Generate SOW</p>
+									<p className="p-5 text-[#D175B6]">Session Management</p>
+									<p className="p-5 text-[#D175B6]">Generate SOW</p>
 								</div>
 
 								<div className="grid grid-cols-2 gap-5">
